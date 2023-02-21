@@ -9,4 +9,4 @@ if(username.ToLower() == "маша"){
   Console.Write("Привет, ");
   Console.WriteLine(username);
 }
-
+{{{{{{{{{}}}}}}}}}
